@@ -1,6 +1,6 @@
 # Resources
 
-Welcome to the resources page for the **2025 TechPros presentation**!  
+Welcome to the resources page for the **2025 presentation**!  
 Here you’ll find useful links, references, and supporting materials.
 
 ## Getting Started
