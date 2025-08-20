@@ -18,7 +18,7 @@ Here you’ll find useful links, references, and supporting materials.
 
 ## Organizations
 - [KB: Penn State GitHub - About Organizations - KB0018581](https://pennstate.service-now.com/sp?id=kb_article_view&sysparm_article=KB0018581)
-[ServiceNow Form: Request an Organization](https://pennstate.service-now.com/sp?id=sc_cat_item&sys_id=b9777c37dbbd15103b05a961ca961926)
+- [ServiceNow Form: Request an Organization](https://pennstate.service-now.com/sp?id=sc_cat_item&sys_id=b9777c37dbbd15103b05a961ca961926)
 - [KB: Penn State GitHub – Billing and Budgeting for Metered Services for GitHub Organization Owners](https://pennstate.service-now.com/sp?id=kb_article_view&sysparm_article=KB0021480)
 
 ## Automation
